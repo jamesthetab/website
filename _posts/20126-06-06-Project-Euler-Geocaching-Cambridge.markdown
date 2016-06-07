@@ -71,5 +71,7 @@ print("E =", E)
 #=> prints 'N = 5212178, E = 7141' to STDOUT.
 
 {% endhighlight %}
-This translates as the the co-ordinates N 52/12/178 and E 00/07/141. Which we can enter into the Geochecker for [confirmation](/website/assets/GCCC.jpg), and a location near my PhD advisor's rooms in Corpus!
+This translates as the the co-ordinates N 52/12/178 and E 00/07/141. Which we can enter into the Geochecker for confirmation and discover a location near my PhD advisor's rooms in Corpus!
+
+![alt text](/website/assets/GCCC.jpg "I like to Cache!")
 
