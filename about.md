@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+For the past several years, I have been working as a maths teacher and manager in schools, but this has been more the result of circumstance rather than long-term planning. Five years ago, I relocated to Yorkshire to support my parents through a health crisis. I took a teaching job at a boarding school nearby where I taught maths and served as Deputy Housemaster. I spent term breaks in Cambridge working with my supervisor and continued progressing on my research.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+With that behind me now, I have returned to Cambridge to finish my PhD. I am now exploring opportunities that can make good use of my training - in pure mathematics, data science, applied analysis, and education.

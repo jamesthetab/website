@@ -2,34 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. S. Cooper - A Searching Mathematician</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>A place for me to reflect on my experiences of mathematical research, education, coding,  and the search for a engaging career.
 </description>
-    <link>http://jamesthetab.github.io/jamesthetab.github.io//</link>
-    <atom:link href="http://jamesthetab.github.io/jamesthetab.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Jun 2016 09:20:50 +0100</pubDate>
-    <lastBuildDate>Tue, 07 Jun 2016 09:20:50 +0100</lastBuildDate>
+    <link>http://jamesthetab.github.io/website//</link>
+    <atom:link href="http://jamesthetab.github.io/website//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 07 Jun 2016 14:25:04 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Jun 2016 14:25:04 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>My First Post</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Heading to WWDC</title>
+        <description>&lt;p&gt;I was very excited to find out a few weeks ago that I had won a scholarship to attend Apple’s developers’ conference in June, &lt;a href=&quot;https://developer.apple.com&quot;&gt;WWDC&lt;/a&gt;. The last few years have been very inward looking while I have been finishing up my PhD research and teaching, and the opportunity to ask “What’s really possible with all this cool tech?” is refreshing.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;As I’ve tried to get up to speed I’ve taken an exciting tour through Swift, Jekyll, R, SQL, and d3, as well as reconnecting with old friends Python, GitHub, Project Jupyter, Markdown, and LaTex.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;As I’ve begun the transition from Education/Academy to the world of Tech and Business I am shocked by the speed at which things happen, and excited by all the opportunites this churn represents.&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Jun 2016 20:19:28 +0100</pubDate>
-        <link>http://jamesthetab.github.io/jamesthetab.github.io//jekyll/update/2016/06/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://jamesthetab.github.io/jamesthetab.github.io//jekyll/update/2016/06/06/welcome-to-jekyll.html</guid>
+        <link>http://jamesthetab.github.io/website//jekyll/update/2016/06/06/Heading-to-San-Francisco.html</link>
+        <guid isPermaLink="true">http://jamesthetab.github.io/website//jekyll/update/2016/06/06/Heading-to-San-Francisco.html</guid>
         
         
         <category>jekyll</category>
@@ -39,21 +30,102 @@
       </item>
     
       <item>
-        <title>Learning Jekyll - a new beginning</title>
-        <description>&lt;h2 id=&quot;big-title&quot;&gt;Big title&lt;/h2&gt;
+        <title>Project Euler Geocaching Cambridge</title>
+        <description>&lt;p&gt;A couple of years ago I used the &lt;a href=&quot;https://projecteuler.net&quot;&gt;Project:Euler&lt;/a&gt; challenges as a stimulus/introduction to&lt;code class=&quot;highlighter-rouge&quot;&gt;Python&lt;/code&gt;. They were good at teaching the basics, but the motivation camr from solving quite geeky maths challenges. I discovered last summer that these had been used as the basis for a series of “mystery” &lt;a href=&quot;https://www.geocaching.com/play&quot;&gt;Geocaches&lt;/a&gt; around Cambridge, UK.&lt;/p&gt;
 
-&lt;h1 id=&quot;smaller-title&quot;&gt;Smaller title&lt;/h1&gt;
+&lt;p&gt;The cool idea is that these &lt;a href=&quot;https://www.geocaching.com/bookmarks/view.aspx?guid=efc9ca64-3d99-4d32-b2ef-47699f7b7651&quot;&gt;special GeoCaches&lt;/a&gt; require you to write pretty much the same code as for the Euler Challenges, apply the code to some specific values which return a number which is then used to generate co-ordinates (a checker is included on the site to avoid wild goose chases). When I set these as homework, the submission was just asking for a photo of the student with the GeoCache!&lt;/p&gt;
 
-&lt;p&gt;Hello this is in markdown&lt;/p&gt;
+&lt;p&gt;Let’s take a look at the first Project:Euler challenge.&lt;/p&gt;
 
-&lt;p&gt;Does Latex work?&lt;/p&gt;
+&lt;h1 id=&quot;multiples-of-3-and-5---problem-1httpsprojecteulernetproblem1&quot;&gt;Multiples of 3 and 5 - &lt;a href=&quot;https://projecteuler.net/problem=1&quot;&gt;Problem 1&lt;/a&gt;&lt;/h1&gt;
 
-&lt;p&gt;$x^2+ 2 = 6$&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The sum of these multiples is 23.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Find the sum of all the multiples of 3 or 5 below 1000.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We might approach the problem using &lt;code class=&quot;highlighter-rouge&quot;&gt;Swift&lt;/code&gt; code as follows:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-swift&quot; data-lang=&quot;swift&quot;&gt;&lt;span class=&quot;k&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nf&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;cp&quot;&gt;#=&amp;gt; prints &#39;234168&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;The first Project:Euler inspired Geocahe  introduced as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If we list all the natural numbers below 10 that are divisible by 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Define f(n) as the sum of the multiples of 3 and 5 which are less than n. Thus we can write:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;f(10) = 23.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Then N = f(4720) + f(240) + f(77),&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;and E = f(175) + f(10).&lt;/em&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-swift&quot; data-lang=&quot;swift&quot;&gt;&lt;span class=&quot;kd&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;Int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Int&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;m&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;N&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4720&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;240&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;77&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;E&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;175&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;nf&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;N =&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;N&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nf&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;E =&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;E&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;cp&quot;&gt;#=&amp;gt; prints &#39;N = 5212178, E = 7141&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;This translates as the the co-ordinates N 52/12/178 and E 00/07/141. Which we can enter into the Geochecker for &lt;a href=&quot;http://geotjek.dk/geo_chkcorrect.php?gid=618347510ec6445-3811-4753-8676-c23c4b6f556c&quot;&gt;confirmation.&lt;/a&gt;, and a location near my PhD advisor’s rooms in Corpus!&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 01 Jan 2016 19:19:28 +0000</pubDate>
-        <link>http://jamesthetab.github.io/jamesthetab.github.io//jekyll/update/2016/01/01/a-new-beginning.html</link>
-        <guid isPermaLink="true">http://jamesthetab.github.io/jamesthetab.github.io//jekyll/update/2016/01/01/a-new-beginning.html</guid>
+        <pubDate>Mon, 06 Jun 2016 20:19:28 +0100</pubDate>
+        <link>http://jamesthetab.github.io/website//jekyll/update/2016/06/06/Project-Euler-Geocaching-Cambridge.html</link>
+        <guid isPermaLink="true">http://jamesthetab.github.io/website//jekyll/update/2016/06/06/Project-Euler-Geocaching-Cambridge.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Thank you Jekyll</title>
+        <description>&lt;p&gt;I am using &lt;code class=&quot;highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt; for the first time to provide the scaffolding for a website hosted on ‘GitHub’. The terminal interface is very powerful for this work and I have enjoyed learning about how to make new blog posts.&lt;/p&gt;
+
+&lt;p&gt;As someone who shares snippet of code I was pleased to learn that &lt;code class=&quot;highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt; also offers support for code snippets, highlighting to make the commands easy to read:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+    
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sum&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;#=&amp;gt; prints &#39;385&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;As much for myself as anyone, here’s a link to &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 04 Jun 2016 20:19:28 +0100</pubDate>
+        <link>http://jamesthetab.github.io/website//jekyll/update/2016/06/04/Thank-you-Jekyll.html</link>
+        <guid isPermaLink="true">http://jamesthetab.github.io/website//jekyll/update/2016/06/04/Thank-you-Jekyll.html</guid>
         
         
         <category>jekyll</category>
