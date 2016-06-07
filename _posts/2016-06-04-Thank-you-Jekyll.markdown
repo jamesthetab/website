@@ -21,6 +21,6 @@ print sum
 #=> prints '385' to STDOUT.
 {% endhighlight %}
 
-As much for myself as anyone, here's a link to [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
+As much for myself as anyone, here's a link to [Jekyll docs][jekyll-docs] for more info on how to get the most out of `Jekyll`.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home

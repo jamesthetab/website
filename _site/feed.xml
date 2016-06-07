@@ -6,8 +6,8 @@
 </description>
     <link>http://jamesthetab.github.io/website//</link>
     <atom:link href="http://jamesthetab.github.io/website//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Jun 2016 14:25:04 +0100</pubDate>
-    <lastBuildDate>Tue, 07 Jun 2016 14:25:04 +0100</lastBuildDate>
+    <pubDate>Tue, 07 Jun 2016 17:10:02 +0100</pubDate>
+    <lastBuildDate>Tue, 07 Jun 2016 17:10:02 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -45,7 +45,7 @@
 
 &lt;p&gt;&lt;em&gt;Find the sum of all the multiples of 3 or 5 below 1000.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;We might approach the problem using &lt;code class=&quot;highlighter-rouge&quot;&gt;Swift&lt;/code&gt; code as follows:&lt;/p&gt;
+&lt;p&gt;We might approach the problem using &lt;code class=&quot;highlighter-rouge&quot;&gt;Swift&lt;/code&gt; code as follows (using a &lt;code class=&quot;highlighter-rouge&quot;&gt;Playground&lt;/code&gt; in &lt;code class=&quot;highlighter-rouge&quot;&gt;XCode&lt;/code&gt;):&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-swift&quot; data-lang=&quot;swift&quot;&gt;&lt;span class=&quot;k&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
 
@@ -89,7 +89,7 @@
 
 &lt;span class=&quot;cp&quot;&gt;#=&amp;gt; prints &#39;N = 5212178, E = 7141&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;This translates as the the co-ordinates N 52/12/178 and E 00/07/141. Which we can enter into the Geochecker for &lt;a href=&quot;http://geotjek.dk/geo_chkcorrect.php?gid=618347510ec6445-3811-4753-8676-c23c4b6f556c&quot;&gt;confirmation.&lt;/a&gt;, and a location near my PhD advisor’s rooms in Corpus!&lt;/p&gt;
+&lt;p&gt;This translates as the the co-ordinates N 52/12/178 and E 00/07/141. Which we can enter into the Geochecker for &lt;a href=&quot;http://geotjek.dk/geo_chkcorrect.php?gid=618347510ec6445-3811-4753-8676-c23c4b6f556c&quot;&gt;confirmation&lt;/a&gt;, and a location near my PhD advisor’s rooms in Corpus!&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 06 Jun 2016 20:19:28 +0100</pubDate>
@@ -120,12 +120,27 @@
 
 &lt;span class=&quot;c&quot;&gt;#=&amp;gt; prints &#39;385&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;As much for myself as anyone, here’s a link to &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll.&lt;/p&gt;
+&lt;p&gt;As much for myself as anyone, here’s a link to &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of &lt;code class=&quot;highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 04 Jun 2016 20:19:28 +0100</pubDate>
         <link>http://jamesthetab.github.io/website//jekyll/update/2016/06/04/Thank-you-Jekyll.html</link>
         <guid isPermaLink="true">http://jamesthetab.github.io/website//jekyll/update/2016/06/04/Thank-you-Jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Mathematical Alphabet</title>
+        <description>&lt;p&gt;Excellent news: the Oxford &lt;a href=&quot;https://www.maths.ox.ac.uk/r/alphabet&quot;&gt;Mathematics Alphabet&lt;/a&gt; now includes “F is for Fourier Transform” - a 200 year old mathematical technique which broke out of its original utility and today is invaluable across many fields.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jun 2016 20:19:28 +0100</pubDate>
+        <link>http://jamesthetab.github.io/website//jekyll/update/2016/06/01/Mathematical-Alphabet.html</link>
+        <guid isPermaLink="true">http://jamesthetab.github.io/website//jekyll/update/2016/06/01/Mathematical-Alphabet.html</guid>
         
         
         <category>jekyll</category>

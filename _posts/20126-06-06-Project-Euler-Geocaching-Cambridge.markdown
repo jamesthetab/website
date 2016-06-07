@@ -19,7 +19,7 @@ Let's take a look at the first Project:Euler challenge.
 
 *Find the sum of all the multiples of 3 or 5 below 1000.*
 
-We might approach the problem using `Swift` code as follows:
+We might approach the problem using `Swift` code as follows (using a `Playground` in `XCode`):
 
 {% highlight swift %}
 
@@ -71,5 +71,5 @@ print("E =", E)
 #=> prints 'N = 5212178, E = 7141' to STDOUT.
 
 {% endhighlight %}
-This translates as the the co-ordinates N 52/12/178 and E 00/07/141. Which we can enter into the Geochecker for [confirmation.](http://geotjek.dk/geo_chkcorrect.php?gid=618347510ec6445-3811-4753-8676-c23c4b6f556c), and a location near my PhD advisor's rooms in Corpus!
+This translates as the the co-ordinates N 52/12/178 and E 00/07/141. Which we can enter into the Geochecker for [confirmation](http://geotjek.dk/geo_chkcorrect.php?gid=618347510ec6445-3811-4753-8676-c23c4b6f556c), and a location near my PhD advisor's rooms in Corpus!
 
